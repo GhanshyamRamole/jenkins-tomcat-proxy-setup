@@ -37,7 +37,7 @@ Unlike standard installations, this project implements a production-grade **"Rev
 
 1.  **Clone the Repository** (or download the scripts):
     ```bash
-    git clone [https://github.com/YourUsername/jenkins-tomcat-proxy-setup.git](https://github.com/YourUsername/jenkins-tomcat-proxy-setup.git)
+    git clone https://github.com/GhanshyamRamole/jenkins-tomcat-proxy-setup.git
     cd jenkins-tomcat-proxy-setup
     ```
 
